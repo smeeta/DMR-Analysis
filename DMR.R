@@ -1,5 +1,5 @@
 ### R code from vignette source 'DMRcate.Rnw'
-
+### Tim Peters
 ###################################################
 ### code chunk number 1: bioconductor (eval = FALSE)
 ###################################################
@@ -115,3 +115,5 @@ DMR.plot(ranges=wgbs.ranges, dmr=1, CpGs=CpGs, phen.col=cols, genome="hg19")
 ### code chunk number 12: sessionInfo
 ###################################################
 sessionInfo()
+
+##################################################
